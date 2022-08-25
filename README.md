@@ -4,7 +4,7 @@ Anim·E - Anime-enhanced [DALL·E Mini](https://github.com/borisdayma/dalle-mini
 
 ## Play with the model
 
-You can play with the model for free on Colab! (No Colab pro needed)
+You can play with the model for free on Colab! [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/cccntu/anim_e/blob/main/app.ipynb) (No Colab pro needed)
 
 
 ## Comparison
