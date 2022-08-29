@@ -30,7 +30,7 @@ The training only took about 9 hours on a single 3090.
 
 ## Releases
 
-* [x] Flax inference code / reproduce the README images [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/cccntu/anim_e/blob/main/notebooks/generate-readme-images.ipynb)
+* [x] Flax inference code / reproduce the README images [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cccntu/anim_e/blob/main/notebooks/generate-readme-images.ipynb)
 
 * [ ] Flax training code
 * [ ] Fine-tuned [stable-diffusion](https://github.com/CompVis/stable-diffusion/blob/main/README.md) and code
