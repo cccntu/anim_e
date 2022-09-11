@@ -30,7 +30,10 @@ The training only took about 9 hours on a single 3090.
 
 ## Releases
 
-* [x] Flax inference code / reproduce the README images [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cccntu/anim_e/blob/main/notebooks/generate-readme-images.ipynb)
+* [x] (2022-08-29) Flax inference code / reproduce the README images [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cccntu/anim_e/blob/main/notebooks/generate-readme-images.ipynb)
 
-* [ ] Flax training code
-* [ ] Fine-tuned [stable-diffusion](https://github.com/CompVis/stable-diffusion/blob/main/README.md) and code
+* [x] (2022-09-11) Flax training code
+  - [cccntu/fine-tune-models/run_finetune_vqgan.py](https://github.com/cccntu/fine-tune-models/blob/main/run_finetune_vqgan.py)
+* [x] (2022-09-11) Fine-tuned [stable-diffusion](https://github.com/CompVis/stable-diffusion/blob/main/README.md) vae decoder and training code 
+- model: https://huggingface.co/ttj/stable-diffusion-vae-anime
+- code: [cccntu/fine-tune-models/run_finetune_vae.py](https://github.com/cccntu/fine-tune-models/blob/main/run_finetune_vae.py)
